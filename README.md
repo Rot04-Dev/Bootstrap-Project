@@ -1,2 +1,13 @@
 # Bootstrap-Project
-This project is use HTML, CSS, JavaScript and Bootstrap
+A simple and responsive Nike sneaker web application built with HTML, CSS, JavaScript, BootStrap.
+
+#Bootstrap Project
+
+#Techologies
+-HTML
+-CSS
+-JavaScript
+-BootStrap
+
+#Author
+Rot
