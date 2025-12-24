@@ -10,4 +10,4 @@ A simple and responsive Nike sneaker web application built with HTML, CSS, JavaS
 -BootStrap
 
 #Author
-Rot
+Rot04-Dev
